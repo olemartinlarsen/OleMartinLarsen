@@ -1,5 +1,5 @@
 # Hi there 👋
-
+- 🏫 I'm currently taking a master's in Applied Computer Science at Høyskolen Kristiania (https://www.kristiania.no/en/)
 - 🔭 I’m currently working at Computas on a project for Teknisk Museum (https://github.com/computas/tekniskmuseum)
 - 🌱 I’m currently learning Anuglar
 
