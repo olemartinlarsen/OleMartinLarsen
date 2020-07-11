@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently working at Computas on a project for Teknisk Museum (https://github.com/computas/tekniskmuseum)
+- 🌱 I’m currently learning Anuglar
 
 <!--
 **OleMartinLarsen/OleMartinLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
