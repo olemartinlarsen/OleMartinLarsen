@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there 👋 
 - 🏫 I'm currently taking a master's in Applied Computer Science at Høyskolen Kristiania (https://www.kristiania.no/en/)
-- 🔭 I’m currently working at Computas on a project for Teknisk Museum (https://github.com/computas/tekniskmuseum)
-- 🌱 I’m currently learning Anuglar
+- 🔭 I’m currently doing a summer internship at Computas on a project for Teknisk Museum (https://github.com/computas/tekniskmuseum)
+- 🌱 I’m currently learning Angular
 
 <!--
 **OleMartinLarsen/OleMartinLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
