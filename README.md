@@ -1,7 +1,7 @@
 # Hi there 👋 
-- 🏫 School: master's in Applied Computer Science and bachelor's in Frontend- and mobile development from Høyskolen Kristiania
-- 🔭 Work: summer internship at Computas on a project for Teknisk Museum (https://github.com/computas/tekniskmuseum)
-- 🌱 Learning: Angular
+- 🏫 School - Master's in Applied Computer Science and bachelor's in Frontend- and mobile development from Høyskolen Kristiania
+- 🔭 Work- Summer internship at Computas on a project for Teknisk Museum (https://github.com/computas/tekniskmuseum)
+- 🌱 Learning - Angular
 
 <!--
 **OleMartinLarsen/OleMartinLarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
