@@ -23,7 +23,7 @@ have a bachelor in Frontend and mobile development and are currently taking a ma
 	/>
 	<img
 		alt="Node"
-		src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"
+		src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"
 	/>
 	<img
 		alt="Express"
@@ -70,6 +70,12 @@ have a bachelor in Frontend and mobile development and are currently taking a ma
 		<img
 			alt="Twitter"
 			src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
+		/>
+	</a>
+	<a href="https://dev.to/olemartinlarsen" target="_blank">
+		<img
+			alt="Dev.to"
+			src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
 		/>
 	</a>
 </p>
