@@ -37,10 +37,10 @@ I'm Ole Martin, a developer from <img src="https://img.icons8.com/color/48/00000
 				alt="Git"
 				src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 			/>
-			<img
+			<!--<img
 				alt="Github actions"
 				src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"
-			/>
+			/>-->
 </p>
 
 ### Where to find me
