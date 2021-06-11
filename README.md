@@ -37,16 +37,16 @@ work with
 		alt="Git"
 		src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 	/>
-	<!--<img
-				alt="Github actions"
-				src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"
-			/>-->
 </p>
 
-### Prefered IDE
+### Prefered OS and IDE
 <p>
 	<img
 		alt="MacOS"
+		src="https://img.shields.io/badge/macOS-000000?&style=for-the-badge&logo=macOS&logoColor=white"
+	/>
+	<img
+		alt="VSCode"
 		src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"
 	/>
 </p>
