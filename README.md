@@ -1,6 +1,6 @@
 # Hi there 👋 
 I'm Ole Martin, a developer from <img src="https://img.icons8.com/color/48/000000/norway-circular.png" width="13" /> **Oslo, Norway**. I
-have a bachelor in Frontend and mobile development and are currently taking a master's in Applied Computer Science at [**Kristiania University College**](https://www.kristiania.no/en/) 👨‍🎓. 
+have a bachelor's degree in Frontend and mobile development and a masters's degree in Applied Computer Science from [**Kristiania University College**](https://www.kristiania.no/en/) 👨‍🎓. 
 
 ### Things I work with
 
