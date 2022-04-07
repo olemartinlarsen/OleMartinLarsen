@@ -39,7 +39,7 @@ have a bachelor's degree in Frontend and mobile development and a masters's degr
 	/>
 </p>
 
-### Prefered OS and IDE
+### Preferred OS and IDE
 <p>
 	<img
 		alt="MacOS"
