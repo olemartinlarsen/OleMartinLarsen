@@ -2,6 +2,11 @@
 I'm Ole Martin, a developer from <img src="https://img.icons8.com/color/48/000000/norway-circular.png" width="13" /> **Oslo, Norway**. I
 have a bachelor's degree in Frontend and mobile development and a masters's degree in Applied Computer Science from [**Kristiania University College**](https://www.kristiania.no/en/) 👨‍🎓. 
 
+Currently working at [Netcompany](https://www.netcompany.com/no/) for [Statens Legemiddelverk (The Norwegian Medicines Agency)](https://legemiddelverket.no/english) on the SAFEST project. Read more at:
+
+* EU's Innovation Radar: [STATENS LEGEMIDDELVERK (innoradar.eu)](https://www.innoradar.eu/innovator/923895416) 
+* The Norwegian Medicines Agency: [Norge trekkes frem som innovatør av EU-kommisjonen](https://legemiddelverket.no/nyheter/norge-trekkes-frem-som-innovator-av-eu-kommisjonen).
+
 ### Things I work with
 
 <p>
