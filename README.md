@@ -1,4 +1,4 @@
 # Hi there 👋 
-I'm Ole Martin, a developer from **Oslo, Norway** 🇳🇴. 
+I'm Ole Martin, greeings from **Oslo, Norway** 🇳🇴. 
 
-Read more at [omlarsen.no](https://www.omlarsen.no/) (nb: site is in norwegian)
+My website [omlarsen.no](https://www.omlarsen.no/)
