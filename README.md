@@ -1,4 +1,3 @@
 # Hi there 👋 
-I'm Ole Martin, greeings from **Oslo, Norway** 🇳🇴. 
 
-My website [omlarsen.no](https://www.omlarsen.no/)
+I'm Ole Martin, this is my website [omlarsen.no](https://www.omlarsen.no/).
